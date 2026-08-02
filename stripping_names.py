@@ -1,4 +1,4 @@
-n="  steven "
+n="     steven   "
 #adding whitespaces and newlines using \t,\n
 print(f"\t{n}")
 print(f"\n{n}")
